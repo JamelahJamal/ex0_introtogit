@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Black
+Favorite food: Dawali
+Favorite musician/band: Imagine Dragons
+Favorite movie: Me Before You
+Requested grade in the course: 100
